@@ -1,0 +1,13 @@
+.import/
+.godot/
+export.cfg
+.godot/*.tmp
+.godot/metadata/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build output
+export/
+build/
